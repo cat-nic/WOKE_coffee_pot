@@ -1,8 +1,8 @@
 # Introduction 
-TODO: Microsoft's flaming garbage template, ignore all but the next section
+Microsoft's flaming garbage template, ignore all but the next section
 
 #Model Data
-TODO: The data is stored in box.cat.com in a folder called Operation Caffination. Ask Matthew Fletcher for Link.
+The data is stored in box.cat.com in a folder called Operation Caffination. Ask Matthew Fletcher for Link.
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
