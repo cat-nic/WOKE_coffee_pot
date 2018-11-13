@@ -6,6 +6,9 @@ if 'WOKE' in os.getcwd():
 else:
     os.chdir('..')
 
+# AWS CLI NEEDS TO BE INSTALLED WHICH CAN BE DONE WITH PIP
+# pip install awscli --upgrade --user
+
 file = r'C:\Users\Paynen3\PycharmProjects\WOKE_coffee_pot\data\test_coffee_pot.jpg'
 target = r's3://woke-coffee-pot/coffee_pot1.jpg'
 subprocess.run(['aws',
